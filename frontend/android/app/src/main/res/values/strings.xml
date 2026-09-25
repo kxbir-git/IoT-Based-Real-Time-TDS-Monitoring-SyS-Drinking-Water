@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">AquaSense</string>
+    <string name="title_activity_main">AquaSense</string>
+    <string name="package_name">com.aquasense.app</string>
+    <string name="custom_url_scheme">com.aquasense.app</string>
+</resources>

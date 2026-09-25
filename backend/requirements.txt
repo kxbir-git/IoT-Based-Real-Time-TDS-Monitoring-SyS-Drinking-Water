@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+pymongo
+python-dotenv
+pydantic
+pydantic-settings
+pydantic[email]
+numpy
+pandas
+scikit-learn
+joblib
+python-multipart
+PyJWT
